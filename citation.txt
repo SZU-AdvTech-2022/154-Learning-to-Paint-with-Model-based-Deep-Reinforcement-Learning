@@ -1,0 +1,6 @@
+@inproceedings{REPO-155,
+    author = "Huang, Zhewei and Heng, Wen and Zhou, Shuchang",
+    booktitle = "Proceedings of the IEEE International Conference on Computer Vision (ICCV)",
+    title = "{Learning to Paint with Model-based Deep Reinforcement Learning}",
+    year = "2019"
+}
